@@ -1,3 +1,3 @@
-# js-gq9g2p
+# My collection of HTML/CSS/JS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-gq9g2p)
+[Run in action ⚡️](https://stackblitz.com/edit/js-gq9g2p)
