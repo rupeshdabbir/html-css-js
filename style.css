@@ -1,3 +1,26 @@
-h1, h2 {
-  font-family: Lato;
+.box {
+  height: 50px;
+  width: 50px;
+  padding: 50px;
+}
+
+.box1 {
+  background-color: red;
+  float:left;
+}
+
+.box2 {
+  background-color: green;
+  float: left;
+}
+
+.box3 {
+  clear: both;
+  float: left;
+  background-color: blue;
+}
+
+.box4 {
+  float: left;
+  background-color: orange;
 }
