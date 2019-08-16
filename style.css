@@ -1,4 +1,5 @@
-.box {
+/* With Native CSS */
+/* .box {
   height: 50px;
   width: 50px;
   padding: 50px;
@@ -22,5 +23,36 @@
 
 .box4 {
   float: left;
+  background-color: orange;
+} */
+
+/* With Flexbox */
+
+ .box {
+  height: 50px;
+  width: 50px;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 180px;
+}
+
+.box1 {
+  background-color: red;
+}
+
+.box2 {
+  background-color: green;
+}
+
+.box3 {
+  background-color: blue;
+}
+
+.box4 {
   background-color: orange;
 }
